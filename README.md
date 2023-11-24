@@ -1,6 +1,9 @@
-### Termos de acordos
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
+
+Projeto feito em react com html css e JS
+nao esqueça do básico para rodar o projeto: 
+Npm install
+Npm start
 
 # Boas vindas ao repositório do projeto de Front-End Online Store!
 
