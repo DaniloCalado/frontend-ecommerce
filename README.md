@@ -1,3 +1,7 @@
+acesse: 
+https://frontend-ecommerce-one-lovat.vercel.app/
+
+fotos:
 ![Captura de tela de 2024-04-18 07-20-06](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/72b7a635-9057-45ae-97f4-f5b5aef5aae1)
 ![Captura de tela de 2024-04-18 07-20-26](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/625589bb-f197-49d8-9ad3-43cda0111c00)
 ![Captura de tela de 2024-04-18 07-25-33](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/ed95b143-65c2-421e-a48a-ec4458dd6f90)
