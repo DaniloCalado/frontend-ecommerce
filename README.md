@@ -1,3 +1,5 @@
+![Uploading Captura de tela de 2024-04-18 07-21-02.png…]()
+![Captura de tela de 2024-04-18 07-21-13](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/f0d76517-4523-4bac-b252-7484dd13f6e8)
 
 
 Projeto feito em react com html css e JS
