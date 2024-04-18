@@ -1,9 +1,9 @@
-
-![Captura de tela de 2024-04-18 07-20-48](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/2d4ac36b-5813-41cb-892c-e1ed2c7934e7)
-![Captura de tela de 2024-04-18 07-21-13](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/8ef51320-9bee-4850-9d7c-5926e4b553bb)
 ![Captura de tela de 2024-04-18 07-20-26](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/625589bb-f197-49d8-9ad3-43cda0111c00)
 ![Captura de tela de 2024-04-18 07-20-06](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/72b7a635-9057-45ae-97f4-f5b5aef5aae1)
 ![Captura de tela de 2024-04-18 07-25-33](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/ed95b143-65c2-421e-a48a-ec4458dd6f90)
+![Captura de tela de 2024-04-18 07-20-48](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/2d4ac36b-5813-41cb-892c-e1ed2c7934e7)
+![Captura de tela de 2024-04-18 07-21-13](https://github.com/DaniloCalado/frontend-ecommerce/assets/83645426/8ef51320-9bee-4850-9d7c-5926e4b553bb)
+
 
 
 
